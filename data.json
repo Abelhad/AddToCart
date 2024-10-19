@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "Boucle Occasional Chair",
+        "price" : 200,
+        "image" : "T03710_Square_01.webp"
+    },
+    {
+        "id" : 2,
+        "name" : " BoConcept",
+        "price" : 300,
+        "image" : "img2.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Ethan Dining Chair",
+        "price" : 250,
+        "image" : "img3.webp"
+    },
+    {
+        "id" : 4,
+        "name" : "EF - 2107 DINING CHAIR",
+        "price" : 200,
+        "image" : "img7.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Skald Dining Chair",
+        "price" : 200,
+        "image" : "img6.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : " BoConcept",
+        "price" : 300,
+        "image" : "img2.webp"
+    },
+    {
+        "id" : 7,
+        "name" : "Ethan Dining Chair",
+        "price" : 250,
+        "image" : "img3.webp"
+    },
+    {
+        "id" : 8,
+        "name" : "EF - 2107 DINING CHAIR",
+        "price" : 200,
+        "image" : "img7.jpg"
+    }
+]
